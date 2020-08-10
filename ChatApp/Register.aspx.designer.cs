@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SignalRChat
+namespace ChatApp
 {
 
 
