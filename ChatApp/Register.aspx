@@ -64,7 +64,7 @@
 
     </form>
 
-    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/jquery-3.5.1.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
 
 </body>
